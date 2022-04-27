@@ -322,7 +322,7 @@ else
 });
 
 
-
+   server.onNotFound([](AsyncWebServerRequest *request){request->send(404);});
 
 
   

@@ -33,9 +33,10 @@ bool keepRecording = false;
 const char* ssid = "LiSpire1";        //Write your own Wi-Fi name here
 const char* password = "aaaaa11111";  //Write your own password here
 
-#define RED    26 
-#define GREEN  13
-#define BLUE   21
+
+#define RED    12 
+#define GREEN  25
+#define BLUE   26
 
 AsyncWebServer server(80);   //object created on default port 80
 

@@ -31,7 +31,7 @@ Any SD card reader esp32
 ## Steps to get the project working
 
 *
-1) Copy all the files from www to the SD card and connect it to ESP3
+1) Copy all the files from www to the SD card and connect it to ESP32
 
 2) Import the code to Arduino IDE 
 

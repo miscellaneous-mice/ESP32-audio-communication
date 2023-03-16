@@ -37,13 +37,11 @@ Any SD card reader esp32
 
 3) Compile the code and dump the code to ESP32
 
-4) Copy all the files from www to the SD card and connect it to ESP32
+4) Use the phone to connect the WiFi ssid = "ESP32_audio" password = "12345678" 
 
-5) Use the phone to connect the WiFi ssid = "ESP32_audio" password = "12345678" 
+5) Enter the address “192.168.4.1” to log in to the server in the browser on your mobile phone 
 
-6) Enter the address “192.168.4.1” to log in to the server in the browser on your mobile phone 
-
-5) Now you can start, stop and transfer recording seamlessly
+6) Now you can start, stop and transfer recording seamlessly
 *
 
 
